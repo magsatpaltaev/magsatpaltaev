@@ -36,6 +36,8 @@ src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo
 <p align="left">
 <a target="_blank"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a> 
 <a target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></a> 
+<a target="_blank"><img alt="ASPNET" src="https://img.shields.io/badge/ASP.NET%20Core-1a57ff?style=for-the-badge&logo=aspnet&logoColor=white"/></a> 
+<a target="_blank"><img alt="EFCORE" src="https://img.shields.io/badge/EF%20Core-7F2B7B?style=for-the-badge&logo=efcore&logoColor=white"/></a> 
 <a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/></a> 
 <a target="_blank"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a> 
 <a target="_blank"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/></a> 
