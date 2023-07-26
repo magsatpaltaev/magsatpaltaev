@@ -49,5 +49,7 @@ src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo
 <a target="_blank"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a> 
 <a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> 
 </p>
+<hr>
+<br>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=magsatpaltaev&label=Profile%20views&color=0e75b6&style=flat" alt="magsatpaltaev" /> </p>
