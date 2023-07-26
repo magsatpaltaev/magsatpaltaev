@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hello, I'm Magsat Paltaev</h1>
 <h3 align="center">22 y.o. .NET & Angular developer from Uzbekistan</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Magsat+Paltaev;22+y.o.+.NET+Angular+developer+from+Uzbekistan)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magsatpaltaev&label=Profile%20views&color=0e75b6&style=flat" alt="magsatpaltaev" /> </p>
 
