@@ -4,7 +4,7 @@
 
 - 🔗 Check out my [website](https://magsat.me/)
 
-- 💻 Currently working on [PIIMA Recruiting](https://vacancy.piima.uz/)
+- 💻 Currently working at [UZINFOCOM LLC](https://uzinfocom.uz/)
 
 - 📚 Currently learning **Microsoft Azure**
 
