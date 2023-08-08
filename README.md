@@ -16,7 +16,7 @@
 src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a 
 href="https://www.linkedin.com/in/magsatpaltaev" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://t.me/magsatpaltayev" target="_blank"><img alt="Telegram" 
+<a href="https://t.me/magsatpaltaev" target="_blank"><img alt="Telegram" 
 src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/16542881/magsat-paltayev" target="_blank"><img alt="StackOverflow" 
 src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> 
