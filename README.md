@@ -1,10 +1,12 @@
 <h1 align = "center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=00BB18&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=200&lines=Hi+there!+Welcome+to+my+GitHub+profile+%3A);I'm+Magsat+Paltaev%2C;22+y.o.+.NET+%26+Angular+developer+from+Uzbekistan" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=00BB18&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=200&lines=Hi+there!+Welcome+to+my+GitHub+profile+%3A);I'm+Magsat+Paltaev%2C;22+y.o.+.NET+%26+Angular+developer+and+MSc+Computing+student+at+UEL" alt="Typing SVG" />
 </h1>
 
 - 🔗 Check out my [website](https://magsat.me/)
 
-- 💻 Currently working at [UZINFOCOM LLC](https://uzinfocom.uz/)
+- 🎓 MSc Computing student at **University of East London** '24
+
+- 💻 Working at [UZINFOCOM LLC](https://uzinfocom.uz/)
 
 - 📚 Currently learning **Microsoft Azure**
 
